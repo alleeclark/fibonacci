@@ -11,7 +11,7 @@ func fibonacci(n int) int {
 	}
 }
 
-// GetFibSequence returns the sequence of values
+// GetFibSequence returns the sequence of values in a slice
 func GetFibSequence(n int) (values []int) {
 	done := make(chan interface{})
 	defer close(done)
