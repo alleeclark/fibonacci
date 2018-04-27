@@ -21,8 +21,7 @@
 
 ### Run with go installed
 ``` bash
-go run
-./main.go
+go run ./main.go
 ```
 
 ## Endpoints
