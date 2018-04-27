@@ -4,7 +4,7 @@
 
 # Requirements
 
-  - Golang version 1.9+
+  - Golang version 1.9+ for building without exe
 
 # Installing
 
@@ -19,9 +19,9 @@
 .\main.exe
 ```
 
-
+### Run with go installed
 ``` bash
-go build
+go run
 ./main.go
 ```
 
