@@ -1,8 +1,8 @@
 package routers
 
 import (
+	"fibonacci/controllers"
 	"net/http"
-	"virtustream/controllers"
 
 	"github.com/gorilla/mux"
 )

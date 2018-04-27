@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"strings"
 	"testing"
-	"virtustream/controllers"
+	"fibonacci/controllers"
 
 	"github.com/gorilla/mux"
 )

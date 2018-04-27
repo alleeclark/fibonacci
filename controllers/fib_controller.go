@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
-	"virtustream/common"
+	"fibonacci/common"
 )
 
 // PostFibSequenceNums returns the sequence of ints in an array

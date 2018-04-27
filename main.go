@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"virtustream/common"
-	"virtustream/routers"
+	"fibonacci/common"
+	"fibonacci/routers"
 )
 
 func main() {
